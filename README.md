@@ -1,5 +1,5 @@
 # aws-serverless-keyword-alert
-# 📡 Serverless Event-Driven Notification System (Simulated AWS)
+#  Serverless Event-Driven Notification System (Simulated AWS)
 
 This is a simulated AWS project built without using a real AWS account, to demonstrate understanding of:
 - S3 file upload triggers
@@ -18,7 +18,7 @@ This is a simulated AWS project built without using a real AWS account, to demon
 - Replit
 - GitHub
 
-## 📁 Folder Structure
+##  Folder Structure
 
 
 ##  Skills Demonstrated
