@@ -39,7 +39,7 @@ aws-serverless-keyword-alert/
 - Serverless design
 - AWS simulation without real cloud usage
 
-## 👩‍💻 About Me
+## About Me
 I'm Michelle. This project is part of my learning journey in cloud computing and showcases my understanding of event-driven serverless systems, even in non-AWS environments.
 
 
