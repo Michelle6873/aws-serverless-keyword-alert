@@ -16,8 +16,10 @@ This project aims to demonstrate understanding of:
 
 
 ## Tools used
-- Python (Replit)
+- Python
+- Replit
 - GitHub
+- Draw.io
 
 ## Folder Structure
 aws-serverless-keyword-alert/
@@ -28,8 +30,16 @@ aws-serverless-keyword-alert/
 ├── s3_upload_simulation.py
 └── README.md
 
-## Skills Demonstrated
+## Architecture
+![Architecture](Serverlessnotification.drawio.png)
 
+
+## Skills Demonstrated
 - Event-driven architecture
 - Serverless design
 - AWS simulation without real cloud usage
+
+## 👩‍💻 About Me
+I'm Michelle. This project is part of my learning journey in cloud computing and showcases my understanding of event-driven serverless systems, even in non-AWS environments.
+
+
